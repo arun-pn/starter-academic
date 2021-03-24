@@ -29,7 +29,7 @@ education:
     institution: Indian Institute of Technology Roorkee (https://www.iitr.ac.in/)
     year: 2015
   - course: BTech in Chemical Engineering
-    institution: TKM College of Engineering (https://tkmce.ac.in/)
+    institution: [UCL](https://www.ucl.ac.uk/)
     year: 2013
 
 # Social/Academic Networking
