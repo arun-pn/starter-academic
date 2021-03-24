@@ -14,13 +14,13 @@ organizations:
   url: https://www.ucl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include modelling of reaction kinetics and integrated processes, model identification, model-based design of experiments, development of computational tools for process modelling and identification.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Process modelling and model identification
+- Model-based design of experiments
+- Dynamic optimisation
 
 # Education to show in About widget
 education:
