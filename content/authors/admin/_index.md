@@ -6,7 +6,7 @@ title: Arun Pankajakshan
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
