@@ -25,15 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Chemical Engineering
+    institution: University College London
+    year: 2021
+  - course: MTech in Chemical Engineering
+    institution: Indian Institute of Technology Roorkee
+    year: 2015
+  - course: BTech in Chemical Engineering
+    institution: TKM College of Engineering Kollam
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
