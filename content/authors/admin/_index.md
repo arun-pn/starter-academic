@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Arun Pankajakshan is a researcher at Product and Process Systems Engineering (https://www.ucl.ac.uk/chemical-engineering/research/research-groups/product-and-process-systems-engineering/) group of Chemical Engineering Department, UCL. His research interests include modelling of reaction kinetics and integrated processes, model identification, model-based design of experiments, development of computational tools for process modelling and identification.
+Arun Pankajakshan is a researcher at [VALDA](https://team.inria.fr/valda/) group of Chemical Engineering Department, UCL. His research interests include modelling of reaction kinetics and integrated processes, model identification, model-based design of experiments, development of computational tools for process modelling and identification.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
