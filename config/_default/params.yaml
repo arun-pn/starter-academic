@@ -30,12 +30,11 @@ address:
   country: United Kingdom
   country_code: UK
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '51.52310'
+  longitude: '-0.13227'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'Monday - Friday 10:00 to 18:00'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
