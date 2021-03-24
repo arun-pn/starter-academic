@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: MTech in Chemical Engineering
-    institution: Indian Institute of Technology Roorkee (https://www.iitr.ac.in/)
+    institution: Indian Institute of Technology Roorkee
     year: 2015
   - course: BTech in Chemical Engineering
-    institution: [UCL](https://www.ucl.ac.uk/)
+    institution: TKM College of Engineering
     year: 2013
 
 # Social/Academic Networking
