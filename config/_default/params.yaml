@@ -139,8 +139,8 @@ search:
     api_key: ''
     index_name: ''
     show_logo: false
-map: 2
-  provider: ''
+map:
+  provider: 2
   api_key: ''
   zoom: 15
 marketing:
