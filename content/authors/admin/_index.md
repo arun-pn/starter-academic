@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: < a href="mailto:arun.pankajakshan.16@ucl.ac.uk">Arun< /a>
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
